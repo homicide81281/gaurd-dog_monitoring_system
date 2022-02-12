@@ -6,8 +6,8 @@ There are a lot of cases where dog owners or security personals have to monitor 
 
 
 COMPONENTS REQUIRED
-•	Microcontroller – MSP432P401R
-•	The MSP432 is a mixed-signal microcontroller family from Texas Instruments. It is based on a 32-bit ARM Cortex-M4F CPU. Launchpad board is compatible with a suite of MSP430 stackable BoosterPacks, including the low-power SimpleLink Wi-Fi CC3100 BoosterPack. It includes a USB debugging interface that can be connected directly to the development workstation.
+1. Microcontroller – MSP432P401R
+    The MSP432 is a mixed-signal microcontroller family from Texas Instruments. It is based on a 32-bit ARM Cortex-M4F CPU. Launchpad board is compatible with a suite of         MSP430 stackable BoosterPacks, including the low-power SimpleLink Wi-Fi CC3100 BoosterPack. It includes a USB debugging interface that can be connected directly to the       development workstation.
 
 
 
